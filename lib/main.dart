@@ -4,7 +4,6 @@ import 'layout/home_layout.dart';
 
 void main()
 {
-  //Bloc.observer = MyBlocObserver();
 
   runApp(MyApp());
 }
